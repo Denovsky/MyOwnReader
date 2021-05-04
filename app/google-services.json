@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "848840066676",
+    "firebase_url": "https://databasemybook-default-rtdb.firebaseio.com",
+    "project_id": "databasemybook",
+    "storage_bucket": "databasemybook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848840066676:android:3dcc306ab6c7ecb86c3321",
+        "android_client_info": {
+          "package_name": "com.example.mybookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848840066676-5qg9o1i56g8l518uan7c3mag22a9f8gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGp9096b5-fHG47z0frkKcWm7ZNs-LEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848840066676-5qg9o1i56g8l518uan7c3mag22a9f8gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848840066676:android:0d99ac18e0d2754f6c3321",
+        "android_client_info": {
+          "package_name": "com.example.myexcellentbooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848840066676-5qg9o1i56g8l518uan7c3mag22a9f8gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGp9096b5-fHG47z0frkKcWm7ZNs-LEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848840066676-5qg9o1i56g8l518uan7c3mag22a9f8gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848840066676:android:009dc178b785b8cf6c3321",
+        "android_client_info": {
+          "package_name": "com.example.myexelentbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848840066676-5qg9o1i56g8l518uan7c3mag22a9f8gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGp9096b5-fHG47z0frkKcWm7ZNs-LEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848840066676-5qg9o1i56g8l518uan7c3mag22a9f8gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/gradient_1"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_2"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_3"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_4"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_5"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_6"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_7"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_8"
+        android:duration="4000"/>
+</animation-list>
