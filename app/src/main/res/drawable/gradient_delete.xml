@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/gradient_1_delete"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_2_delete"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_3_delete"
+        android:duration="4000"/>
+    <item android:drawable="@mipmap/gradient_4_delete"
+        android:duration="100000"/>
+</animation-list>

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Excellent Book\'s</string>
+    <string name="submit">submit</string>
+    <string name="delete">delete</string>
+    <string name="refresh">refresh</string>
 </resources>
